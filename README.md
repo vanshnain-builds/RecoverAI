@@ -32,8 +32,6 @@
 
 ## 🚀 What is RecoverAI?
 
-RecoverAI is our solution for the **AI Revenue Recovery** track of the Razorpay Hackathon.
-
 The basic problem we focused on is simple: when a payment fails, the merchant loses potential revenue. But not every failed payment should be treated in the same way.
 
 For example, a temporary network failure may be worth retrying, while a payment-method issue may need a different approach. A customer who has successfully paid many times before may also be a better recovery opportunity than a completely new customer.
